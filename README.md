@@ -5,7 +5,9 @@ wav2midi is a Python PyQt application used for transcribing <code>.wav</code> fi
 A moving or sliding "window" of samples in the time/amplitude domain is continually graphed in the frequency/amplitude domain using the Fast Fourier Transform.
 <b>This project is currently not in working condition</b>.
 
-![](https://github.com/PaulBenMarsh/wav2midi/blob/master/screenshots/screenshot.png?raw=true)
+<p align="center">
+<img src="https://github.com/PaulBenMarsh/wav2midi/blob/master/screenshots/screenshot.png?raw=true">
+</p>
 
 <h1>Dependencies</h1>
 <ul>
